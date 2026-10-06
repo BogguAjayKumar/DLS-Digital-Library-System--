@@ -54,4 +54,5 @@ A full-stack library management application designed to seamlessly bridge offlin
 
 ## 📸 Screenshots
 
-*(Add screenshots of Admin & Student Portals here)*
+<img width="1920" height="1080" alt="Screenshot 2026-05-10 141328" src="https://github.com/user-attachments/assets/c89d89a1-3189-48dc-9eb4-bcedd4c21f07" />
+
